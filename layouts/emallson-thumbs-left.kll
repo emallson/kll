@@ -1,0 +1,15 @@
+Name = emallson-thumbs-left;
+Version = 0.1;
+Author = "emallson (J David Smith) 2015";
+KLL = 0.3c;
+
+Date = "2015-10-20";
+
+# Left Thumb Cluster
+U"Backspace": U"Space";
+U"Delete": U"LCtrl";
+U"Home": U"Insert";
+U"End": U"Delete";
+
+# Bottom Left Function Row
+U"Function5": U"Enter";

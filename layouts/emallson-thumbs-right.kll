@@ -1,0 +1,21 @@
+Name = emallson-thumbs-right;
+Version = 0.1;
+Author = "emallson (J David Smith) 2015";
+KLL = 0.3c;
+Date = "2015-10-20";
+
+ConnectId = 1;
+
+# Right Thumb Cluster
+U"RAlt": U"Lock1";
+U"RCtrl": U"Lock2";
+S0x27: U"Backspace";
+S0x26: U"LAlt";
+
+# Bottom Right Function Row
+U"Left": U"LGui";
+U"Down": U"Left";
+U"Up": U"Down";
+U"Right": U"Up";
+U"RGui": U"Right";
+U"LGui": U"RGui";
