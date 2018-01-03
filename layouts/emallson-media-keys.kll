@@ -1,0 +1,17 @@
+Name = emallson-media-keys;
+Version = 0.1;
+Author = "emallson (J David Smith) 2015";
+KLL = 0.3c;
+
+Date = "2015-11-02";
+
+U"a": CONS"ScanPreviousTrack";
+U"r": CONS"Stop";
+U"s": CONS"PausePlay";
+U"t": CONS"ScanNextTrack";
+U"p": CONS"VolumeUp";
+U"v": CONS"VolumeDown";
+U"d": CONS"Mute";
+
+# not really the best place to put it, but oh well
+U"Delete": LCDStatus( 2 );

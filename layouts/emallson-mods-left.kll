@@ -1,0 +1,10 @@
+Name = emallson-mods-left;
+Version = 0.1;
+Author = "emallson (J David Smith) 2015";
+KLL = 0.3c;
+
+Date = "2015-11-02";
+
+# Left Mid-Bar
+U"Function1": U"Latch1";
+U"Function2": U"Latch3";
